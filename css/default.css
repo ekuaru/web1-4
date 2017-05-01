@@ -15,6 +15,7 @@ h1 span{
 
 .greeting{
   color:#ffcc00;
+  background-color:#2200ff;
   font-size: 1.25em;
   border: #94c8b1 1px dotted;
 }
