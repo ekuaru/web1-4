@@ -5,13 +5,15 @@ body{
 }
 
 f1 span{
+ font-size:1.25em;
  font-weight:bold;
 }
 
 #fs{
  font-size:1.75em;
+ color:#2277aa;
  }
 
 li{
-
+ font-size:0.8em;
 }
