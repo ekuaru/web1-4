@@ -8,9 +8,9 @@ body{
   background-position: center;
 }
 
-hc span{
-  font-size:1.0em;
-  background-color:#ffa500;
+h3 span{
+ font-size:1.0em;
+ background-color:#ffa500;
 }
 
 h1 span{
@@ -20,8 +20,7 @@ h1 span{
 
 #h2{
  font-size:1.75em;
- color:#2277aa;
- }
+}
 
 .li{
   font-size: 1.25em;
