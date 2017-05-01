@@ -1,5 +1,13 @@
 @chareset"UTF-8";
 
+body{
+  padding: 20px 0px;
+  padding-right: 30px;
+  background-image: url(.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 hc span{
   font-size:1.0em;
   background-color:#ffa500;
@@ -23,12 +31,4 @@ h1 span{
   margin-bottom: 0;
   padding: 5px 20px;
 
-}
-
-.bird{
-  padding: 20px 0px;
-  padding-right: 30px;
-  background-image: url(.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
 }
