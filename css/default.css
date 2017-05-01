@@ -1,7 +1,8 @@
 @chareset"UTF-8";
 
-body{
- background-color:#ffa500;
+hc span{
+  font-size:1.0em;
+  background-color:#ffa500;
 }
 
 h1 span{
