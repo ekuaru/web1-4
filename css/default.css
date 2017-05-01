@@ -15,5 +15,13 @@ h1 span{
  }
 
 li{
- font-size:0.8em;
+ 
+}
+
+.bird{
+  padding: 20px 0px;
+  padding-right: 30px;
+  background-image: url(.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
 }
